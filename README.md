@@ -1,4 +1,4 @@
-# grouped_buttons_NS
+# grouped_buttons_ns
 
 A set of Flutter widgets that makes grouping Checkboxes and Radio Buttons much easier!
 
@@ -7,7 +7,7 @@ A set of Flutter widgets that makes grouping Checkboxes and Radio Buttons much e
 Add the following to your `pubspec.yaml` file:
 
     dependencies:
-      grouped_buttons:
+      grouped_buttons_ns:
 
 ## Simple Usage
 
@@ -47,7 +47,7 @@ RadioButtonGroup(
 
 #### Screenshot
 
-<img width="250px" src="https://raw.githubusercontent.com/akshathjain/grouped_buttons/master/screenshots/basicusagescreenshot.png" alt="Basic Usage"/>
+<img width="250px" src="https://raw.githubusercontent.com/syedassadullahshah/grouped_buttons_NS/main/screenshots/basicusagescreenshot.png" alt="Basic Usage"/>
 
 <br>
 <br>
@@ -150,4 +150,4 @@ RadioButtonGroup(
 
 #### Screenshot
 
-<img width="250px" src="https://raw.githubusercontent.com/akshathjain/grouped_buttons/master/screenshots/customusagescreenshot.png" alt="Basic Usage"/>
+<img width="250px" src="https://raw.githubusercontent.com/syedassadullahshah/grouped_buttons_NS/main/screenshots/customusagescreenshot.png" alt="Basic Usage"/>

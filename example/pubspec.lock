@@ -27,13 +27,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  grouped_buttons:
+  grouped_buttons_ns:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "1.0.4"
+    version: "1.0.0"
   meta:
     dependency: transitive
     description:
@@ -62,3 +62,4 @@ packages:
     version: "2.1.0"
 sdks:
   dart: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
